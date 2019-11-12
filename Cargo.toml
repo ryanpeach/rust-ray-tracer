@@ -1,0 +1,11 @@
+[package]
+name = "rustraytracer"
+version = "0.1.0"
+authors = ["Ryan Peach <ryan.peach@keysight.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.22.3"
+cgmath = "0.17.0"
